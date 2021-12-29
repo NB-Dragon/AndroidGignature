@@ -1,0 +1,7 @@
+.idea
+sample/.gradle
+sample/gradle
+sample/build
+sample/gradlew
+sample/gradlew.bat
+out
